@@ -1,2 +1,2 @@
 # Webhook-spammer
-Discord simple webhook spammer single and multiple
+Python simple webhook spammer single and multiple
